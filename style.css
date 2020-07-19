@@ -1,0 +1,13 @@
+body,html{
+    height:100%;
+    width:100%;
+    
+}
+
+
+#search{
+display:none ;
+}
+.choice{
+    cursor: pointer;
+}
